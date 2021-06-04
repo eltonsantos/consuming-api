@@ -5,7 +5,8 @@
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-what-was-learned">What was learned?</a>
 <br>
 
 ---
@@ -48,6 +49,33 @@ For lite-server access: **http://localhost:3000** and for front/back access: **h
 ## 💻 Project
 
 Simple example of how consuming an API in frontend and backend.🥰
+
+## What was learned? 🤔
+
+###### Escreverei essa parte em português
+
+### API
+#### Criar uma API
+- [ ] Iniciar o projeto `npm init -y`
+- [ ] Instalar as dependências `npm i express nodemon cors axios`
+- [ ] Criar uma rota para acessar a API
+- [ ] Servir a API
+- [ ] Habilitar o CORS
+- [ ] Habilitar o nodemon para reiniciar o server
+
+### frontend
+#### Consumir API
+- [ ] Utilizar fetch para consumir nossa API backend
+- [ ] Explicar Promise - Async/Await
+- [ ] Usar try/catch
+- [ ] Mostrar a resposta na tela
+
+### backend
+#### Consumir API
+- [ ] Jsonplaceholder
+- [ ] Usar axios
+- [ ] Semelhanças entre axios e fetch
+- [ ] Usar try/catch
 
 ---
 
